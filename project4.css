@@ -1,0 +1,93 @@
+Body {
+    background-image: url('./hr2.jpg');
+    background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: 100% 100%;
+ color:#ddd;
+    Font-family: Arial, sans-serif;
+    Margin: 0;
+    Padding: 0;
+    Font-family: Arial, sans-serif;
+    Margin: 0;
+    Padding: 0;
+}
+Header {
+    Background-color: #011814;
+    Color: white;
+    Text-align: center;
+    Padding: 16px 7px;
+}
+Nav {
+    Display: flex;
+    justify-content: center;
+    Background-color: #333;
+    flex-wrap: wrap;
+}
+Nav a {
+    Color: white;
+    Padding: 14px 20px;
+    Text-decoration: none;
+    Text-align: center;
+}
+Nav a:hover {
+    Background-color: #ddd;
+    Color: black;
+}
+
+#password{
+    align: center;
+    padding: 10px 50px;
+    border-radius: 10px;
+    border-color: rgba(16, 109, 172, 0.158); 
+    background-color: #80ac1a;
+    
+}
+#pass{
+    align: center;
+    padding: 10px 50px;
+    border-radius: 10px;
+    border-color: rgba(16, 109, 172, 0.158); 
+    background-color: #a74517;
+    
+}
+
+
+a{color: rgb(0, 0, 0);
+    text-decoration: none;
+
+    
+}
+
+a:hover{
+    padding: 5px;
+    margin: 0;
+    background-color: rgba(185, 11, 35, 0.658);
+}
+
+
+.div{
+    Background-color: #282c34;
+    Color: #ffffff;
+    Text-align: center;
+    Padding: 20px;
+    
+    Bottom: 0;
+    Width: 100%;
+}
+.div h3 {
+    Margin: 0;
+    Font-size: 1.5em;
+}
+.div p {
+    Margin: 5px 0;
+    Font-size: 0.9em;
+}
+.div a {
+    Color: #61dafb;
+    Text-decoration: none;
+}
+.div a:hover {
+    Text-decoration: underline;
+    background-color: #07581b;
+    color:#ddd;
+}
